@@ -55,7 +55,7 @@
 ### Cloud
 <div>
     <img src="https://img.shields.io/badge/-Zscaler-008FD4?&style=for-the-badge&logo=Zscaler&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Azure_Active_Directory-0089D6?&style=for-the-badge&logo=Microsoft_Azure&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Azure_Active_Directory-0089D6?&style=for-the-badge&logo=Microsoft%20Azure&logoColor=white" />
 </div>
 
 ### DAST & SAST
