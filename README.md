@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Prasad</h1>
 <h3 align="center">Cyber Security Professional</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prasad-kadu&label=Profile%20views&color=0e75b6&style=flat" alt="anishrane" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=prasad-kadu&label=Profile%20views&color=0e75b6&style=flat" alt="prasad-kadu" /> </p>
 
 ### whoami
 
